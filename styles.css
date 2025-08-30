@@ -1,0 +1,33 @@
+body {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  background: #111;
+  font-family: 'Arial', sans-serif;
+  color: #fff;
+  margin: 0;
+}
+
+#game {
+  background: #222;
+  border-radius: 12px;
+  padding: 15px;
+  display: grid;
+  grid-template-columns: repeat(4, 80px);
+  grid-gap: 10px;
+}
+
+.tile {
+  width: 80px;
+  height: 80px;
+  border-radius: 8px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-size: 24px;
+  font-weight: bold;
+  color: #fff;
+  background: #333;
+  transition: all 0.2s ease-in-out;
+}

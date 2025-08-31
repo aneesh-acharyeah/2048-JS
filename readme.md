@@ -47,7 +47,7 @@ You can try the game instantly by opening `index.html` in your browser.
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/yourusername/2048-blocks.git](https://github.com/aneesh-acharyeah/2048-JS.git
+   git clone https://github.com/aneesh-acharyeah/2048-JS.git
    ```
 2. Navigate into the folder:
 
